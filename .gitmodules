@@ -2,3 +2,55 @@
 	path = l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
 	branch = 12.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 12.0
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
+	branch = 12.0
+[submodule "bank-payment"]
+	path = bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 12.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 12.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 12.0
+[submodule "crm"]
+	path = crm
+	url = git@github.com:OCA/crm.git
+	branch = 12.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 12.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 12.0
+[submodule "contract"]
+	path = contract
+	url = git@github.com:OCA/contract.git
+	branch = 12.0
+[submodule "project"]
+	path = project
+	url = git@github.com:OCA/project.git
+	branch = 12.0
+[submodule "timesheet"]
+	path = timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 12.0
+[submodule "hr"]
+	path = hr
+	url = git@github.com:OCA/hr.git
+	branch = 12.0
