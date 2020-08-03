@@ -50,3 +50,103 @@
 	path = hr
 	url = git@github.com:OCA/hr.git
 	branch = 12.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = git@github.com:OCA/account-analytic.git
+	branch = 12.0
+[submodule "account-budgeting"]
+	path = account-budgeting
+	url = git@github.com:OCA/account-budgeting.git
+	branch = 12.0
+[submodule "account-closing"]
+	path = account-closing
+	url = git@github.com:OCA/account-closing.git
+	branch = 12.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 12.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting.git
+	branch = 12.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 12.0
+[submodule "brand"]
+	path = brand
+	url = git@github.com:OCA/brand.git
+	branch = 12.0
+[submodule "community-data-files"]
+	path = community-data-files
+	url = git@github.com:OCA/community-data-files.git
+	branch = 12.0
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 12.0
+[submodule "crm"]
+	path = crm
+	url = git@github.com:OCA/crm.git
+	branch = 12.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 12.0
+[submodule "e-commerce"]
+	path = e-commerce
+	url = git@github.com:OCA/e-commerce.git
+	branch = 12.0
+[submodule "field-service"]
+	path = field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 12.0
+[submodule "geospatial"]
+	path = geospatial
+	url = git@github.com:OCA/geospatial.git
+	branch = 12.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = git@github.com:OCA/intrastat-extrastat.git
+	branch = 12.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 12.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 12.0
+[submodule "project-reporting"]
+	path = project-reporting
+	url = git@github.com:OCA/project-reporting.git
+	branch = 12.0
+[submodule "queue"]
+	path = queue
+	url = git@github.com:OCA/queue.git
+	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 12.0
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 12.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 12.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 12.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 12.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 12.0
