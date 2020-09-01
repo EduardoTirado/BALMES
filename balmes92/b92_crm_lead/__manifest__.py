@@ -13,10 +13,8 @@
         "Eduardo Tirado <et@balmes.com>",
     ],
     "depends": [
-        "crm",
+        "crm_lead_code",
     ],
-    "data": [
-        "views/crm_lead_view.xml",
-    ],
+    "data": [],
     'installable': True,
 }
